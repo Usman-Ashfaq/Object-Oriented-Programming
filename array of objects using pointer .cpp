@@ -17,9 +17,10 @@
 //	}
 //
 //};
+////main function
 //int main()
 //{
-//	int size = 2;
+//	const int size = 2;
 //	student* ptr = new student[size];
 //	student* temptr = ptr;
 //	
@@ -31,6 +32,7 @@
 //		ptr->setdata(p, q);
 //		ptr++;
 //	}
+////printing items
 //	for (int j = 0; j < size; j++)
 //	{
 //		cout << "Item number " << j + 1 << endl;
@@ -40,5 +42,4 @@
 //
 //	system("pause");
 //	return 0;
-//
 //}
