@@ -9,9 +9,9 @@
 //	//void setdata(int a, int b)
 //	//student & setdata(int a, int b)
 // //   {
-//		//this->id = a;
+//		//this->id = a;                ////this is areserved key word point to the currrent value
 //		//this->no = b;
-//		//return *this;
+//		//return *this;              //returning a pointer
 //
 //	//}
 //	void setdata(int a)
@@ -19,7 +19,7 @@
 //		this->a = a;
 //	}
 //
-//	void print()
+//	void print()             //function to print the all information
 //	{
 //		//cout << "Enter id = " << id << endl;
 //		//cout << "Enter no = " << no << endl;
