@@ -13,7 +13,7 @@
 //        cout << "Balance: $" << balance << endl;
 //    }
 //};
-//
+////function for transfer of funds
 //void transferFunds(BankAccount& from, BankAccount& to, double amount) {
 //    if (from.balance >= amount) {
 //        from.balance -= amount;
@@ -24,7 +24,7 @@
 //        cout << "Insufficient balance for transfer!" << endl;
 //    }
 //}
-//
+////main function or driver function
 //int main() {
 //    BankAccount account1(1000);
 //    BankAccount account2(500);
