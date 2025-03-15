@@ -1,6 +1,6 @@
 //#include <iostream>
 //using namespace std;
-//
+////bank account class with different functions
 //class BankAccount {
 //private:
 //    double balance;
