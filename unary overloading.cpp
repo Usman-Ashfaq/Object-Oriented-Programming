@@ -2,12 +2,12 @@
 //using namespace std;
 //
 //class Number {
-//private:
 //    int value;
 //
 //public:
 //    // Constructor
-//    Number(int v) : value(v) {}
+//    Number(int v) {
+      value= v ;}
 //
 //    // Overloading unary `++` operator as a member function
 //    Number operator++() {
