@@ -6,16 +6,16 @@ class student
 int no;
 int a;
 public:
-//	void setdata(int a, int b)
-//	student & setdata(int a, int b)
-//    {
-//		this->id = a;                ////this is areserved key word point to the currrent value
-//		this->no = b;
-//		return *this;              //returning a pointer
-//
-//	}
-//	void setdata(int a)
-//	{
+	void setdata(int a, int b)
+	student & setdata(int a, int b)
+  {
+		this->id = a;                ////this is areserved key word point to the currrent value
+		this->no = b;
+		return *this;              //returning a pointer
+
+	}
+	void setdata(int a)
+	{
 //		this->a = a;
 //	}
 //
