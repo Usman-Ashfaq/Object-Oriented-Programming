@@ -16,14 +16,14 @@ public:
 	}
 	void setdata(int a)
 	{
-//		this->a = a;
-//	}
-//
-//	void print()             //function to print the all information
-//	{
-//		//cout << "Enter id = " << id << endl;
-//		//cout << "Enter no = " << no << endl;
-//		cout << "Value of A = " <<a<< endl;
+		this->a = a;
+	}
+
+	void print()             //function to print the all information
+	{
+		cout << "Enter id = " << id << endl;
+		cout << "Enter no = " << no << endl;
+		cout << "Value of A = " <<a<< endl;
 //	}
 //};
 //int main()
