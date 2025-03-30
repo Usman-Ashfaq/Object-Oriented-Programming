@@ -1,12 +1,12 @@
-//#include<iostream>
-//using namespace std;
-//class A {
-//public:
-//	void show()
-//	{
-//		cout << "Parent class A ";
-//	}
-//};
+#include<iostream>
+using namespace std;
+class A {
+public:
+	void show()
+	{
+		cout << "Parent class A ";
+	}
+};
 //class B : public A {
 //public:
 //	void show()
