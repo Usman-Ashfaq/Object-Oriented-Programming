@@ -4,11 +4,11 @@ using namespace std;
 
 class Shape {
 public:
-//    virtual double area() = 0;  // Pure virtual function
-//};
-//
-//class Circle : public Shape {
-//    double radius;
+    virtual double area() = 0;  // Pure virtual function
+};
+
+/lass Circle : public Shape {
+   double radius;
 //public:
 //    Circle(double r) : radius(r) {}
 //    double area() override {
