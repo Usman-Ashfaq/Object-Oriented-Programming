@@ -1,9 +1,9 @@
-//#include <iostream>
-//#include <cmath>
-//using namespace std;
-//
-//class Shape {
-//public:
+#include <iostream>
+#include <cmath>
+using namespace std;
+
+class Shape {
+public:
 //    virtual double area() = 0;  // Pure virtual function
 //};
 //
@@ -14,8 +14,8 @@
 //    double area() override {
 //        return M_PI * radius * radius;
 //    }
-//};
-//
+};
+
 //class Rectangle : public Shape {
 //    double width, height;
 //public:
