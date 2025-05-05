@@ -1,7 +1,7 @@
-//#include <iostream>
-//using namespace std;
-////bank account class with different functions
-//class BankAccount {
+#include <iostream>
+using namespace std;
+//bank account class with different functions
+class BankAccount {
 //private:
 //    double balance;
 //public:
@@ -12,7 +12,7 @@
 //    void displayBalance() const {
 //        cout << "Balance: $" << balance << endl;
 //    }
-//};
+};
 ////function for transfer of funds
 //void transferFunds(BankAccount& from, BankAccount& to, double amount) {
 //    if (from.balance >= amount) {
