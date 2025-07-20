@@ -1,7 +1,7 @@
-//#include <iostream>
-//#include <string>
-//using namespace std;
-//
+#include <iostream>
+#include <string>
+using namespace std;
+
 //class Eventcard {
 //    // Private data members
 //    string name;
@@ -27,11 +27,11 @@
 //    }
 //};
 //
-//int main() {
+int main() {
 //    Eventcard c; // Create an Eventcard object
 //    // It will call the friend function
 //    display(c);
 //
 //    system("pause"); // Pause the system (Windows specific)
-//    return 0;
-//}
+    return 0;
+}
